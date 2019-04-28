@@ -1,0 +1,32 @@
+data: BelgiumTS dataset. Links:
+
+
+annotations: https://btsd.ethz.ch/shareddata/BelgiumTS/BelgiumTSD_annotations.zip
+
+
+Training: https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Training.zip
+
+Testing: https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Testing.zip
+
+
+see also: https://btsd.ethz.ch/shareddata/
+
+
+
+File directory :
+
+	Traffic_signs_SIft.ipynb
+	Training(folder)
+		00000(folder)
+		....
+		00061(folder)
+			00032_00000.ppm
+			....
+			01959_00002.ppm
+	Testing(folder)
+		00000(folder)
+		....
+		00061(folder)
+			00049_00000.ppm
+			...
+			02463_00002.ppm
